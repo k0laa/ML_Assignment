@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.jupyter_runtime/
+.mplconfig/
+.jupyter/
+data/raw/FLIR_groups1and2.csv
+data/raw/incident_event_log.csv
